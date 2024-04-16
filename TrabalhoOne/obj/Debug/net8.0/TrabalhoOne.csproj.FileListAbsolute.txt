@@ -1,0 +1,14 @@
+C:\Users\decol\source\repos\TrabalhoOne\TrabalhoOne\obj\Debug\net8.0\TrabalhoOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\decol\source\repos\TrabalhoOne\TrabalhoOne\obj\Debug\net8.0\TrabalhoOne.AssemblyInfoInputs.cache
+C:\Users\decol\source\repos\TrabalhoOne\TrabalhoOne\obj\Debug\net8.0\TrabalhoOne.AssemblyInfo.cs
+C:\Users\decol\source\repos\TrabalhoOne\TrabalhoOne\obj\Debug\net8.0\TrabalhoOne.csproj.CoreCompileInputs.cache
+C:\Users\decol\source\repos\TrabalhoOne\TrabalhoOne\bin\Debug\net8.0\TrabalhoOne.exe
+C:\Users\decol\source\repos\TrabalhoOne\TrabalhoOne\bin\Debug\net8.0\TrabalhoOne.deps.json
+C:\Users\decol\source\repos\TrabalhoOne\TrabalhoOne\bin\Debug\net8.0\TrabalhoOne.runtimeconfig.json
+C:\Users\decol\source\repos\TrabalhoOne\TrabalhoOne\bin\Debug\net8.0\TrabalhoOne.dll
+C:\Users\decol\source\repos\TrabalhoOne\TrabalhoOne\bin\Debug\net8.0\TrabalhoOne.pdb
+C:\Users\decol\source\repos\TrabalhoOne\TrabalhoOne\obj\Debug\net8.0\TrabalhoOne.dll
+C:\Users\decol\source\repos\TrabalhoOne\TrabalhoOne\obj\Debug\net8.0\refint\TrabalhoOne.dll
+C:\Users\decol\source\repos\TrabalhoOne\TrabalhoOne\obj\Debug\net8.0\TrabalhoOne.pdb
+C:\Users\decol\source\repos\TrabalhoOne\TrabalhoOne\obj\Debug\net8.0\TrabalhoOne.genruntimeconfig.cache
+C:\Users\decol\source\repos\TrabalhoOne\TrabalhoOne\obj\Debug\net8.0\ref\TrabalhoOne.dll
